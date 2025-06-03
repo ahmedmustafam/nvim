@@ -48,8 +48,9 @@ return {
 			ensure_installed = {
 				"prettier", -- prettier formatter
 				"stylua", -- lua formatter
-				-- "delve",
+				"delve",
 			},
 		})
 	end,
 }
+
